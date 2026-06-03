@@ -24,9 +24,7 @@ See `creed/foundational-axioms.md` — held present at the start of every reason
 
 - `creed/` — Foundational axioms and proactive identity bootstrap. Resurface here first.
 - `originals/` — Source documents (quote, email exchange, brewing letter, back-of-bag, executive brief). Preserved as searchable .md with oddkit frontmatter.
-- `artifacts/` — Structured DOLCHEO artifacts. Subfolders: `handoff/`, `observation/`, `decision/`, `constraint/`, `learning/`.
-- `journal/` — Expanded narrative entries. Includes the Coffee Selection Journal summary (272 artifacts across 19 encoding passes).
-- `correspondence/` — Content drafts, email drafts, Stories sequences.
+- `journal/` — Dated session entries. Each file covers one working session with all DOLCHEO types (Decisions, Observations, Learnings, Constraints, Handoffs) together.
 - `LOGGER.md` — Reusable prompt for logging future conversations to this repo.
 
 ## Current Status (as of 2026-06-02)

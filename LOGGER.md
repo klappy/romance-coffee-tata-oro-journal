@@ -19,7 +19,7 @@ Log this conversation to the Romance journal repo.
 1. Clone the repo using the PAT from project instructions.
 2. Read the existing artifacts to understand what's already recorded.
 3. Extract DOLCHEO artifacts from THIS conversation — Decisions, Observations, Learnings, Constraints, Handoffs, Explores, Opens. Only encode what's new (not already in the repo).
-4. Create markdown files with oddkit-compatible YAML frontmatter under the appropriate `artifacts/` subfolder. Use the conversation start date in filenames and frontmatter `date` field. URIs follow `klappy://romance/{type}/{slug}` pattern.
+4. Create ONE markdown file per session under `journal/` with all DOLCHEO types together. Use the conversation start date in filename: `journal/YYYY-MM-DD-short-slug.md`. Include oddkit-compatible YAML frontmatter. URIs follow `klappy://romance/journal/{YYYY-MM-DD-slug}` pattern.
 5. If the conversation produced deliverables (emails, documents, copy), save the final versions to `originals/` with frontmatter.
 6. Update `README.md` current status section if project state changed.
 7. Commit with a descriptive message and push.
@@ -28,17 +28,16 @@ Log this conversation to the Romance journal repo.
 **Frontmatter template:**
 ```yaml
 ---
-uri: "klappy://romance/{type}/{slug}"
-title: "{Type} — {Descriptive Title}"
+uri: "klappy://romance/journal/{YYYY-MM-DD-slug}"
+title: "Session — {Descriptive Title}"
 audience: docs
 exposure: nav
 tier: 2
 voice: neutral
 stability: stable
-tags: [romance, {type}, {relevant-tags}]
+tags: [romance, journal, session, {relevant-tags}]
 date: "{YYYY-MM-DD}"
 derives_from: "{path-or-uri-if-applicable}"
-complements: "{path-or-uri-if-applicable}"
 status: active
 ---
 ```
