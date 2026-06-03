@@ -1,3 +1,16 @@
+---
+uri: "klappy://romance/readme"
+title: "Romance Coffee by Tata Oro — Project Journal"
+audience: docs
+exposure: nav
+tier: 2
+voice: neutral
+stability: semi_stable
+tags: [romance, tata-oro, coffee, journal, index]
+date: "2026-06-02"
+status: active
+---
+
 # romance-coffee-tata-oro-journal
 
 **Private epistemic journal for Romance Coffee by Tata Oro (Klappy LLC / Tata Oro project)**

@@ -1,3 +1,18 @@
+---
+uri: "klappy://romance/originals/quote-from-elkin"
+title: "Commercial Quote from Elkin Gamba / La Karmela (EN + ES)"
+audience: docs
+exposure: nav
+tier: 2
+voice: neutral
+stability: stable
+tags: [romance, original, quote, la-karmela, elkin, pricing, terms]
+date: "2026-05-29"
+derives_from: "originals/executive-brief-for-elkin-2026-05-26.md"
+complements: "artifacts/observation/2026-05-29-la-karmela-quote-observation.md, artifacts/decision/2026-05-29-accept-70-30-blend-and-quote.md"
+status: active
+---
+
 # Quote from Elkin Gamba / La Karmela
 
 **Date:** Fort Lauderdale, Florida, May 29, 2026 (Spanish) / May 29, 2026 (English)

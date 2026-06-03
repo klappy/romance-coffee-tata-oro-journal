@@ -1,3 +1,21 @@
+---
+uri: "klappy://romance/creed/foundational-axioms"
+title: "Foundational Axioms — Proactive Identity of Integrity"
+audience: canon
+exposure: nav
+tier: 1
+voice: first_person
+stability: stable
+tags: [romance, creed, axioms, epistemics, foundational, proactive-identity]
+date: "2026-06-02"
+derives_from: "klappy://canon/values/axioms"
+governs: "All decisions, observations, and constraints in this project"
+start_here: true
+start_here_order: 1
+start_here_label: "Project Creed"
+status: active
+---
+
 # Foundational Axioms — Proactive Identity of Integrity
 
 **Bootstrapped via oddkit** (klappy://docs/oddkit/proactive/proactive-identity-of-integrity)

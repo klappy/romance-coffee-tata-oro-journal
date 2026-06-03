@@ -1,3 +1,16 @@
+---
+uri: "klappy://romance/originals/back-of-bag-instructions"
+title: "Back-of-Bag Brewing Instructions (EN + ES)"
+audience: docs
+exposure: nav
+tier: 2
+voice: first_person
+stability: stable
+tags: [romance, original, brewing, instructions, bilingual, packaging]
+date: "2026-05-26"
+status: active
+---
+
 # ROMANCE by Tata Oro
 
 ## How to Brew (English)

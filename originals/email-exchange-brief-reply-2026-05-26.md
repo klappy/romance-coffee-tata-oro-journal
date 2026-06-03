@@ -1,3 +1,17 @@
+---
+uri: "klappy://romance/originals/email-exchange-brief-reply"
+title: "Email Exchange — Executive Brief & Elkin Reply"
+audience: docs
+exposure: nav
+tier: 2
+voice: neutral
+stability: stable
+tags: [romance, original, email, correspondence, elkin, brief]
+date: "2026-05-26"
+complements: "originals/executive-brief-for-elkin-2026-05-26.md, originals/quote-from-elkin-gamba-2026-05-29.md"
+status: active
+---
+
 # Email Exchange: Brief from Chris & Reply from Elkin
 
 **Date:** May 26, 2026 (Chris's brief) / May 29, 2026 (Elkin's reply)

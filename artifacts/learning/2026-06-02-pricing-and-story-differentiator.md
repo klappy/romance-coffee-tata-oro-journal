@@ -1,3 +1,17 @@
+---
+uri: "klappy://romance/learning/pricing-and-story-differentiator"
+title: "Learning — Pricing Competitive + Story as Unique Differentiator"
+audience: docs
+exposure: nav
+tier: 2
+voice: neutral
+stability: stable
+tags: [romance, learning, pricing, market, differentiator, story]
+date: "2026-06-02"
+derives_from: "artifacts/observation/2026-05-29-la-karmela-quote-observation.md"
+status: active
+---
+
 # Learning — Pricing Competitive + Story as Unique Differentiator (2026-06-02)
 
 **Type:** Learning  

@@ -1,3 +1,17 @@
+---
+uri: "klappy://romance/originals/executive-brief"
+title: "Executive Brief — Coffee Selection & Production Request for Elkin"
+audience: docs
+exposure: nav
+tier: 2
+voice: neutral
+stability: stable
+tags: [romance, original, brief, partner, elkin, production, bilingual]
+date: "2026-05-26"
+complements: "originals/email-exchange-brief-reply-2026-05-26.md"
+status: active
+---
+
 # ROMANCE BY TATA ORO
 
 ## Executive Brief — Coffee Selection & Production Request

@@ -1,3 +1,17 @@
+---
+uri: "klappy://romance/originals/brewing-letter"
+title: "Brewing Letter — A Letter to Open With Your First Cup (EN + ES)"
+audience: docs
+exposure: nav
+tier: 2
+voice: first_person
+stability: stable
+tags: [romance, original, brewing, letter, insert-card, bilingual]
+date: "2026-05-26"
+complements: "originals/back-of-bag-instructions.md"
+status: active
+---
+
 # ROMANCE by Tata Oro
 
 ## A Letter to Open With Your First Cup (English)

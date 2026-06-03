@@ -1,3 +1,18 @@
+---
+uri: "klappy://romance/decision/accept-70-30-blend-and-quote"
+title: "Decision — Accept La Karmela Quote & 70/30 Blend"
+audience: docs
+exposure: nav
+tier: 2
+voice: neutral
+stability: stable
+tags: [romance, decision, blend, pricing, la-karmela, quote]
+date: "2026-05-29"
+derives_from: "artifacts/observation/2026-05-29-la-karmela-quote-observation.md, artifacts/constraint/2026-05-29-internal-success-first.md"
+complements: "originals/quote-from-elkin-gamba-2026-05-29.md"
+status: active
+---
+
 # Decision — Accept Quote & 70/30 Blend (2026-05-29)
 
 **Type:** Decision  

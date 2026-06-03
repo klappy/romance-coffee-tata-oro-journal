@@ -1,3 +1,22 @@
+---
+uri: "klappy://romance/handoff/initial-journal-handoff"
+title: "Handoff — Romance Coffee by Tata Oro Full Context"
+audience: docs
+exposure: nav
+tier: 2
+voice: neutral
+stability: semi_stable
+tags: [romance, handoff, context, continuity, tata-oro]
+date: "2026-06-02"
+derives_from: "creed/foundational-axioms.md"
+complements: "artifacts/decision/2026-05-29-accept-70-30-blend-and-quote.md, artifacts/constraint/2026-05-29-internal-success-first.md, artifacts/observation/2026-05-29-la-karmela-quote-observation.md"
+governs: "Future session routing — start here for full project context"
+start_here: true
+start_here_order: 2
+start_here_label: "Project Handoff"
+status: active
+---
+
 # Handoff — Romance Coffee by Tata Oro Journal (2026-06-02)
 
 **Type:** Handoff  

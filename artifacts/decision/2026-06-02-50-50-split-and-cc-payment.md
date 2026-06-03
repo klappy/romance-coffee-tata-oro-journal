@@ -1,3 +1,17 @@
+---
+uri: "klappy://romance/decision/50-50-split-and-cc-payment"
+title: "Decision — 50/50 Ground/Whole Bean Split + CC Payment"
+audience: docs
+exposure: nav
+tier: 2
+voice: neutral
+stability: semi_stable
+tags: [romance, decision, grind, production, payment, logistics]
+date: "2026-06-02"
+derives_from: "artifacts/observation/2026-05-26-consumption-and-story-observations.md"
+status: active
+---
+
 # Decision — 50/50 Ground/Whole Bean Split + CC Payment Preference (2026-06-02)
 
 **Type:** Decision  

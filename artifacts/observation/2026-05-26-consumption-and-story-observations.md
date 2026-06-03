@@ -1,3 +1,17 @@
+---
+uri: "klappy://romance/observation/consumption-and-story"
+title: "Observation — Daily Consumption & Origin Story"
+audience: docs
+exposure: nav
+tier: 2
+voice: neutral
+stability: stable
+tags: [romance, observation, consumption, ritual, origin-story, algún-día]
+date: "2026-05-26"
+derives_from: "creed/foundational-axioms.md"
+status: active
+---
+
 # Observation — Daily Consumption & Origin Story (2026-05-26)
 
 **Type:** Observation  
