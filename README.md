@@ -13,7 +13,7 @@ status: active
 
 # romance-coffee-tata-oro-journal
 
-**Private epistemic journal for Romance Coffee by Tata Oro (Klappy LLC / Tata Oro project)**
+**Public epistemic journal for Romance Coffee by Tata Oro (Klappy LLC / Tata Oro project)**
 
 Bootstrapped via oddkit with the Proactive Identity of Integrity.
 
@@ -23,10 +23,11 @@ See `creed/foundational-axioms.md` — held present at the start of every reason
 ## Repository Structure (oddkit-compatible)
 
 - `creed/` — Foundational axioms and proactive identity bootstrap. Resurface here first.
-- `originals/` — Source documents provided by user (quote PDFs, email exchange, brewing letter, back-of-bag instructions, executive brief). These are preserved as searchable .md files for reference and oddkit retrieval. The original binary files live in the conversation history/attachments.
-- `artifacts/` — Structured DOLCHEO artifacts (Handoff, Observation, Decision, Constraint, Learning) encoded via oddkit. Subfolders: handoff/, observation/, decision/, constraint/, learning/.
-- `journal/` — Expanded narrative journal entries (for longer-form storytelling when needed).
-- `correspondence/` — Email drafts, sent versions, and logistics notes.
+- `originals/` — Source documents (quote, email exchange, brewing letter, back-of-bag, executive brief). Preserved as searchable .md with oddkit frontmatter.
+- `artifacts/` — Structured DOLCHEO artifacts. Subfolders: `handoff/`, `observation/`, `decision/`, `constraint/`, `learning/`.
+- `journal/` — Expanded narrative entries. Includes the Coffee Selection Journal summary (272 artifacts across 19 encoding passes).
+- `correspondence/` — Content drafts, email drafts, Stories sequences.
+- `LOGGER.md` — Reusable prompt for logging future conversations to this repo.
 
 ## Current Status (as of 2026-06-02)
 - Quote from La Karmela accepted for 100 bags @ 70/30 Castillo Chocolate / Bourbon Rosado Canela, $931 total (free packaging components).
@@ -39,6 +40,19 @@ See `creed/foundational-axioms.md` — held present at the start of every reason
 The living story ("algún día" cartoons → real daily chocolate + ground cinnamon bark ritual) remains the north star.
 
 Everything routed through oddkit + creed. No drift.
+
+## Project Timeline
+
+| Date | Event |
+|------|-------|
+| 2026-03-22 | Designer brief created (16-section packaging direction) |
+| 2026-03-30 | Colombian team meetings — brand architecture locked |
+| 2026-05-16 | First tasting session (aroma + cupping) |
+| 2026-05-25 | Second tasting session (pour-over comparison + strategy) |
+| 2026-05-26 | Morning blend test validated. Partner package assembled. Mom's validation. 272 DOLCHEO artifacts encoded. |
+| 2026-05-27 | Instagram poll results (78/22 ground). Stories sequence drafted. |
+| 2026-05-29 | La Karmela quote received ($931 for 100 bags). Quote accepted. |
+| 2026-06-02 | 50/50 split decided. Zoom proposed. Repo created and oddkit-indexed. |
 
 ## Next Routing
 When ready: prepare sticker text files, model inventory rotation for the 100 bags, or draft Zoom agenda.
