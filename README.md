@@ -22,12 +22,13 @@ See `creed/foundational-axioms.md` — held present at the start of every reason
 
 ## Repository Structure (oddkit-compatible)
 
+- `canon/governance/` — **Binding project governance** (charter, brand constraints, communication standards, journal standards). This repo is the canonical governance baseline: future sessions fetch governance live via oddkit with `knowledge_base_url: https://github.com/klappy/romance-coffee-tata-oro-journal` — never from model memory.
 - `creed/` — Foundational axioms and proactive identity bootstrap. Resurface here first.
 - `originals/` — Source documents (quote, email exchange, brewing letter, back-of-bag, executive brief). Preserved as searchable .md with oddkit frontmatter.
 - `journal/` — Dated session entries. Each file covers one working session with all DOLCHEO types (Decisions, Observations, Learnings, Constraints, Handoffs) together.
 - `LOGGER.md` — Reusable prompt for logging future conversations to this repo.
 
-## Current Status (as of 2026-06-02)
+## Current Status (as of 2026-06-10)
 - Quote from La Karmela accepted for 100 bags @ 70/30 Castillo Chocolate / Bourbon Rosado Canela, $931 total (free packaging components).
 - 50/50 ground/whole bean split requested.
 - CC payment preferred.

@@ -10,7 +10,7 @@ tags: [romance, journal, tasting, blend, castillo, rosado, dolcheo, encoding, se
 date: "2026-05-25"
 derives_from: "creed/foundational-axioms.md"
 governs: "All product decisions — blend ratio, grind spec, pricing, and launch format derive from these tasting sessions"
-complements: "artifacts/decision/2026-05-29-accept-70-30-blend-and-quote.md, artifacts/observation/2026-05-26-consumption-and-story-observations.md"
+complements: "journal/2026-05-29-la-karmela-quote-accepted.md, journal/2026-05-26-brief-assembly-and-convergence.md"
 start_here: true
 start_here_order: 3
 start_here_label: "Coffee Selection Journal"
