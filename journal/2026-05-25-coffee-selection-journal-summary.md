@@ -1,4 +1,5 @@
 ---
+kind: journals
 uri: "klappy://romance/journal/coffee-selection-summary"
 title: "Coffee Selection Journal — 272 Artifacts Across 19 Encoding Passes"
 audience: docs

@@ -1,4 +1,5 @@
 ---
+kind: docs
 uri: "klappy://romance/originals/email-exchange-brief-reply"
 title: "Email Exchange — Executive Brief & Elkin Reply"
 audience: docs

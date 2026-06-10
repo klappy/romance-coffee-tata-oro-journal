@@ -40,7 +40,8 @@ complements: "LOGGER.md, canon/governance/project-charter.md"
 
 ## Frontmatter Rule (binding)
 
-- Every markdown file MUST carry a `---`-delimited YAML frontmatter block with at minimum: `uri`, `title`, `audience`, `tier`, `tags`, `date`, `status`. Files without it are invisible to the oddkit catalog regardless of content — inline metadata is insufficient.
+- Every markdown file MUST carry a `---`-delimited YAML frontmatter block with at minimum: `uri`, `title`, `kind`, `audience`, `tier`, `tags`, `date`, `status`. Files without it are invisible to the oddkit catalog regardless of content — inline metadata is insufficient.
+- **`kind:` is mandatory** (learned 2026-06-10): oddkit resolves kind from frontmatter `kind:` first, then from path prefix — but this repo's prefixes (`journal/` singular, `originals/`, `creed/`) do not match the recognized kind prefixes, so files without explicit `kind:` resolve to no kind and silently drop from the catalog. Use `kind: journals` for sessions, `kind: docs` for originals/README/LOGGER, `kind: canon` for canon and creed.
 - Canon files add `kind: canon` and `governs:`. Journal entries add `derives_from:` linking the prior session where applicable.
 - References in `derives_from:` / `complements:` MUST point at live paths; stale references to deleted structures are audit failures.
 

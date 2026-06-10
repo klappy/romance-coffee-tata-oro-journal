@@ -1,4 +1,5 @@
 ---
+kind: journals
 uri: "klappy://romance/journal/2026-06-10-governance-baseline"
 title: "Session — Coverage Audit & Governance Baseline Established"
 audience: docs
@@ -34,6 +35,10 @@ status: active
 
 - **[O] Coverage audit complete:** all six prior project conversations (2026-03-22 designer brief; 2026-03-30 Colombian team meetings; 2026-05-25/26 coffee selection + brief assembly; 2026-05-27 poll + Stories; 2026-05-29 quote accepted; 2026-06-02 logistics + repo creation) have corresponding journal entries. No missing sessions.
 - **[O] One audit defect found and fixed:** the 2026-05-25 summary frontmatter carried a `complements:` reference to the deleted `artifacts/decision/...` and `artifacts/observation/...` paths from the pre-reorganization structure; updated to live journal paths.
+
+## Learnings
+
+- **[L] Explicit `kind:` frontmatter is mandatory in this repo.** Post-push catalog verification showed only the four canon docs indexed; journal/originals/creed files silently dropped. Cause: oddkit resolves kind from frontmatter `kind:` then path prefix, and this repo's prefixes (`journal/` singular, `originals/`, `creed/`) match no recognized kind prefix — no `kind:` means no kind means invisible. Fix: `kind: journals` on sessions, `kind: docs` on originals/README/LOGGER, `kind: canon` on creed. Ratified into `canon/governance/journal-standards.md`. Note journals are catalog opt-in by default — pass `include: ["canon","docs","journals"]` to see them.
 
 ## Handoffs
 

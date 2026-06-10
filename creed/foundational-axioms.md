@@ -1,4 +1,5 @@
 ---
+kind: canon
 uri: "klappy://romance/creed/foundational-axioms"
 title: "Foundational Axioms — Proactive Identity of Integrity"
 audience: canon

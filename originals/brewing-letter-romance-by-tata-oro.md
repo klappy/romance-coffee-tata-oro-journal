@@ -1,4 +1,5 @@
 ---
+kind: docs
 uri: "klappy://romance/originals/brewing-letter"
 title: "Brewing Letter — A Letter to Open With Your First Cup (EN + ES)"
 audience: docs

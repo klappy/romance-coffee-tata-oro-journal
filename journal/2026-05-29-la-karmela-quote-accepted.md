@@ -1,4 +1,5 @@
 ---
+kind: journals
 uri: "klappy://romance/journal/2026-05-29-quote-accepted"
 title: "Session — La Karmela Quote Received & Accepted"
 audience: docs

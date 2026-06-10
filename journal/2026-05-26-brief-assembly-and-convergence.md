@@ -1,4 +1,5 @@
 ---
+kind: journals
 uri: "klappy://romance/journal/2026-05-26-brief-assembly"
 title: "Session — Brief Assembly, Mom's Validation & Three-Voice Convergence"
 audience: docs

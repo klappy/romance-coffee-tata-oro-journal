@@ -28,6 +28,7 @@ Log this conversation to the Romance journal repo.
 **Frontmatter template:**
 ```yaml
 ---
+kind: docs
 uri: "klappy://romance/journal/{YYYY-MM-DD-slug}"
 title: "Session — {Descriptive Title}"
 audience: docs

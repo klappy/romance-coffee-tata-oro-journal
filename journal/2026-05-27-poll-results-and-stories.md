@@ -1,4 +1,5 @@
 ---
+kind: journals
 uri: "klappy://romance/journal/2026-05-27-poll-and-stories"
 title: "Session — Instagram Poll Results & Stories Sequence"
 audience: docs

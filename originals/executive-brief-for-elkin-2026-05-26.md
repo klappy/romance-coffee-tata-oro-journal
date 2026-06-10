@@ -1,4 +1,5 @@
 ---
+kind: docs
 uri: "klappy://romance/originals/executive-brief"
 title: "Executive Brief — Coffee Selection & Production Request for Elkin"
 audience: docs

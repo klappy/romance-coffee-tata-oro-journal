@@ -1,4 +1,5 @@
 ---
+kind: docs
 uri: "klappy://romance/originals/back-of-bag-instructions"
 title: "Back-of-Bag Brewing Instructions (EN + ES)"
 audience: docs

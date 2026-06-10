@@ -1,4 +1,5 @@
 ---
+kind: journals
 uri: "klappy://romance/journal/2026-03-22-designer-brief"
 title: "Session — Designer Brief & Packaging Direction"
 audience: docs

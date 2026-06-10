@@ -1,4 +1,5 @@
 ---
+kind: journals
 uri: "klappy://romance/journal/2026-06-02-logistics-and-repo"
 title: "Session — 50/50 Split, Zoom Proposal & Repo Creation"
 audience: docs

@@ -1,4 +1,5 @@
 ---
+kind: docs
 uri: "klappy://romance/originals/quote-from-elkin"
 title: "Commercial Quote from Elkin Gamba / La Karmela (EN + ES)"
 audience: docs

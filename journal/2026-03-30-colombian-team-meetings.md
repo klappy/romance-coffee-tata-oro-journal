@@ -1,4 +1,5 @@
 ---
+kind: journals
 uri: "klappy://romance/journal/2026-03-30-colombian-team-meetings"
 title: "Session — Colombian Design Team Meetings & Brand Architecture"
 audience: docs

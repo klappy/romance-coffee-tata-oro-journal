@@ -1,4 +1,5 @@
 ---
+kind: docs
 uri: "klappy://romance/readme"
 title: "Romance Coffee by Tata Oro — Project Journal"
 audience: docs
