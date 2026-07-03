@@ -223,3 +223,112 @@ Persona weight: Spanish follower 0.70 / cold English 0.30 (the IG audience is th
 | 5 | 5 | 7 | 4 | 2 | 4 | The handle matches the name almost exactly which is good, but 'Tata Oro' is a coin toss on whether I'd type it as one word or two when searching later. Clear that it's coffee though, I'll give them that. |
 | 6 | 6 | 6 | 4 | 2 | 4 | The name has a nice ring and 'Tata' feels warm, like a grandma's kitchen, so it sticks a little more than most. Still, I don't know these people from Adam and 12 oz is standard, so nothing here pushes me to actually click buy. |
 
+
+
+---
+
+# Addendum — 50/50 US-market re-analysis (2026-07-03, later same day)
+
+> **Market definition updated by the captain:** sell into the **US market with an expected 50/50 English/Spanish purchaser split.** This supersedes the original 70/30 primary-funnel weighting for ranking, and it exposed a design gap: the first panel modeled the English half only as *cold* buyers who had never heard of Tata Oro. A third persona was added — **English-dominant US Tata Oro followers (warm)**, 30 more blind evaluators (6 per name, same rubric, same blind conditions). Total panel: **90 evaluators.** **Result: the ranking does not flip.** "Café Tata Oro" is #1 in every 50/50 scenario; "Romance Café" is last in every scenario except the pure cold-English cell.
+
+## New persona — Persona C: English-dominant Tata Oro follower (warm English)
+
+| Handle / Name | Mem. | Clar. | Buy | Trust | Search | **Overall** |
+|---|---|---|---|---|---|---|
+| `@cafetataoro` — Café Tata Oro | 6.83 | 7.17 | 5.5 | 6.5 | 4.83 | **6.17** |
+| `@romance.tataoro` — Romance · Tata Oro | 6.33 | 5.83 | 5.17 | 6.83 | 5.33 | **5.9** |
+| `@romancecafetataoro` — Romance Café by Tata Oro | 6.5 | 6.5 | 5.17 | 7 | 4.17 | **5.87** |
+| `@romancebytataoro` — Romance by Tata Oro | 5.5 | 4.17 | 4.67 | 6.17 | 4.33 | **4.97** |
+| `@romancecafe` — Romance Café | 6.5 | 6.5 | 3.5 | 1.5 | 5.5 | **4.7** |
+
+Warm English followers **restore the trust engine in English** — every Tata-Oro-bearing name recovers to trust 6.2–7.0. Crucially, **"Romance Café" still craters (trust 1.5)** even here: followers who love Tata do not connect the name to her. The dotted **`@romance.tataoro`** posts the single highest trust score in this cell (6.83).
+
+## 50/50 EN/ES ranking — sensitivity across three models of the English half
+
+Composite = 0.5 × Spanish-follower + 0.5 × English half; dimension weights trust 0.30 / buy 0.25 / mem·clar·search 0.15. The English half is modeled three ways because we do not yet know how much of it is warm (from Tatiana's audience) vs. cold (paid/organic acquisition).
+
+| Rank | English half = warm followers | English half = cold buyers | English half = warm/cold blend |
+|---|---|---|---|
+| **1** | Café Tata Oro — 6.03 | Café Tata Oro — 4.77 | Café Tata Oro — 5.4 |
+| **2** | Romance · Tata Oro — 5.25 | Romance by Tata Oro — 4.23 | Romance · Tata Oro — 4.63 |
+| **3** | Romance Café by Tata Oro — 5.16 | Romance · Tata Oro — 4.02 | Romance by Tata Oro — 4.6 |
+| **4** | Romance by Tata Oro — 4.98 | Romance Café by Tata Oro — 3.93 | Romance Café by Tata Oro — 4.55 |
+| **5** | Romance Café — 3.77 | Romance Café — 3.58 | Romance Café — 3.68 |
+
+**`Café Tata Oro` is #1 in all three** (and in the equal-weight versions too). **`Romance Café` is last in all three.** The only environment where Romance Café leads is a hypothetical funnel made entirely of English speakers who have never heard of Tata Oro — the half that cannot convert on her trust.
+
+## Revised recommendation (unchanged in direction, sharpened)
+
+1. **Empirical winner remains `@cafetataoro` / "Café Tata Oro."** The 50/50 US market *strengthened* its lead — "café" gives instant clarity to Spanish speakers and reads as legitimately coffee to English speakers, while "Tata Oro" carries trust for both warm halves. It still **collides with the brand-name lock** ("Romance by Tata Oro", not "Tata Oro Cafe") — still a **captain + Tatiana** decision, not this test's to make.
+2. **Strongest canon-compatible identity:** the locked display name **"Romance by Tata Oro"**, carried on either the exact handle **`@romancebytataoro`** or the shorter, slightly better-testing **`@romance.tataoro`**. Under 50/50-with-warm-English the dotted handle edges the long one on memorability + searchability while tying on trust — so the pragmatic synthesis is **handle `@romance.tataoro` + display name "Romance by Tata Oro."**
+3. **Continue to reject "Romance Café" as the primary identity.** Now tested against three personas; it loses the trust dimension in all three where the anchor exists. It is a name for people who will not buy.
+4. **Unchanged, name-independent:** whichever wins, launch with Tatiana's face + voice + a verification cue — the "is it really her?" doubt recurred in the warm English cell too ("kinda sus until I see her post about it").
+
+## Addendum DOLCHEO
+
+- **[C]** Target market updated to **US, 50/50 EN/ES purchasers**; supersedes the 70/30 funnel weighting for ranking. The English half **must** be modeled as partly warm (English-dominant followers), not solely cold acquisition.
+- **[O]** Added Persona C (warm English follower, 30 evaluators); trust transfer recovers to 6.2–7.0 for all Tata-bearing names in English.
+- **[O]** Across 6 scenarios (3 English models × 2 scoring schemes), **Café Tata Oro ranks #1 in all six**; **Romance Café ranks last** except in the pure cold-English cell.
+- **[L]** The 50/50 change did **not** rescue the captain's gut pick — Romance Café fails the trust dimension in every persona where the anchor could exist.
+- **[L]** Synthesis surfaced: `@romance.tataoro` handle + "Romance by Tata Oro" display captures the searchability win without breaking the lock.
+- **[D]** Revised recommendation (recommended, not ruled): empirical winner "Café Tata Oro" (escalate lock tension to captain + Tatiana); strongest canon-compatible = "Romance by Tata Oro" display on `@romance.tataoro` or `@romancebytataoro`; keep rejecting "Romance Café."
+
+## Appendix B — Warm English persona raw data
+
+### Persona C — English-dominant Tata Oro follower (warm English), full scores + verbatim
+
+**`@romancebytataoro` — Romance by Tata Oro**
+
+| # | Mem | Clar | Buy | Trust | Search | Verbatim comment |
+|---|---|---|---|---|---|---|
+| 1 | 6 | 4 | 5 | 7 | 5 | I saw 'Tata Oro' and my brain went straight to her, so it caught my eye — but 'Romance by' threw me, I thought it was gonna be lipstick or perfume, not coffee. |
+| 2 | 5 | 3 | 4 | 6 | 4 | Honestly the name is kinda confusing, romance AND coffee AND her hair brand? I'd probably keep scrolling unless she actually posted about it herself. |
+| 3 | 7 | 5 | 7 | 8 | 5 | If this is really Tata's coffee I'm in, I trust her taste with everything. But the handle is long and I'd definitely misspell 'romancebytataoro' trying to find it later. |
+| 4 | 4 | 4 | 3 | 5 | 4 | As someone who buys real specialty coffee, 'roasted with love, 12 oz, ships from Florida' tells me nothing — no origin, no roaster, no roast date. The Tata name gets my attention but the bio doesn't earn a purchase. |
+| 5 | 6 | 4 | 5 | 6 | 3 | Me gusta que dice Colombian coffee y that it's her, pero 'romancebytataoro' es un trabalenguas — I'd never remember how to type that, I'd just wait for her to link it. |
+| 6 | 5 | 5 | 4 | 5 | 5 | It's cute but 'Romance by' makes it feel like a side hustle, not something I'd trust for quality beans. I'd want to see reviews before I spent money, brand name or not. |
+
+**`@romancecafe` — Romance Café**
+
+| # | Mem | Clar | Buy | Trust | Search | Verbatim comment |
+|---|---|---|---|---|---|---|
+| 1 | 7 | 6 | 3 | 1 | 6 | Cute name, I'd probably remember 'Romance Café' but honestly I have no idea who's behind it — I thought I was gonna see something from Tata, not a random coffee page. |
+| 2 | 6 | 7 | 4 | 2 | 5 | The bio makes it clear it's Colombian coffee shipping from FL, which is nice, but 'Romance Café' feels like a hundred other little coffee shops. Nothing tells me this is connected to anyone I follow. |
+| 3 | 5 | 6 | 2 | 1 | 4 | No hyphen, an accent on Café… I'd never find this again if I typed it wrong. And where's the Tata link? I don't see her anywhere, so I'd just keep scrolling. |
+| 4 | 8 | 7 | 5 | 2 | 7 | 'Romance Café' actually sticks in my head and I love that it's Colombian, pero it reads like a dating-app coffee brand, not something Tata put her name on. If she posted it I'd trust it, but the name alone? Meh. |
+| 5 | 6 | 8 | 3 | 1 | 6 | Clarity's fine — coffee, 12oz, ships from Florida, got it. But there's zero signal this is Tata's brand, so for me the trust just isn't transferring at all. |
+| 6 | 7 | 5 | 4 | 2 | 5 | I like the vibe and I'd remember the romance angle, but 'café' could just mean a coffee shop, not beans I can buy online. Con ese nombre no pienso en Tata para nada, tbh. |
+
+**`@romancecafetataoro` — Romance Café by Tata Oro**
+
+| # | Mem | Clar | Buy | Trust | Search | Verbatim comment |
+|---|---|---|---|---|---|---|
+| 1 | 8 | 6 | 7 | 9 | 5 | Ok wait, is this Tata Oro doing coffee now?? I'd click just because I love her, but the handle is SO long I'd never type that out right. |
+| 2 | 6 | 7 | 5 | 6 | 4 | The 'Romance Café' part is cute but it kinda buries the Tata Oro name. Cute concept, though I'd probably forget the exact handle by tomorrow. |
+| 3 | 7 | 8 | 6 | 8 | 5 | Colombian coffee shipping from Florida, roasted with love — that reads clear enough that it's coffee for sale. I trust her taste so I'd give it a look, but 'romancecafetataoro' all smushed together is a mess to search. |
+| 4 | 5 | 6 | 3 | 5 | 3 | I like her hair content but I don't automatically buy coffee from an influencer — I don't know anything about the beans, roast date, nada. And that handle is way too long, I'd lose it in two seconds. |
+| 5 | 7 | 5 | 6 | 8 | 4 | Seeing 'Tata Oro' made me stop scrolling instantly porque I already follow her. But is 'Romance Café' the coffee brand or the shop name? Slightly confusing, and no way I'm spelling that whole handle from memory. |
+| 6 | 6 | 7 | 4 | 6 | 4 | $12 oz Colombian specialty from a creator I follow is a nice idea, but 'roasted with love' tells me nothing about quality or price. I'd have to be reminded it exists — that handle is not something I'd ever find again. |
+
+**`@romance.tataoro` — Romance · Tata Oro**
+
+| # | Mem | Clar | Buy | Trust | Search | Verbatim comment |
+|---|---|---|---|---|---|---|
+| 1 | 8 | 6 | 7 | 9 | 6 | Wait, Tata Oro has a COFFEE line now?? I'd click on that in a heartbeat because I already trust her, but 'Romance' threw me off for a sec — thought it was a couples thing lol. |
+| 2 | 6 | 5 | 4 | 6 | 4 | The 'romance' part is cute but kinda confusing, like is this her or a fan account? I love her hair stuff so I'd probably peek, but the dot in the handle makes it annoying to find again. |
+| 3 | 7 | 7 | 6 | 8 | 6 | Ok the 'Tata Oro' part is what got me — she's the reason I'd trust the coffee is actually good quality. 'Roasted with love' is a little cheesy but honestly it fits her vibe. |
+| 4 | 5 | 6 | 3 | 5 | 5 | I mean it's clear it's coffee, but 12oz and 'ships from Florida' doesn't tell me anything about the beans or roast level, and as someone picky about my pour-over that matters more than the influencer name. Romance feels like marketing fluff. |
+| 5 | 8 | 6 | 8 | 9 | 7 | Ay me encanta, Colombian coffee from someone I already follow? Sold. I'd just search 'tata oro coffee' and hope it comes up because I'd never remember that period in the middle. |
+| 6 | 4 | 5 | 3 | 4 | 4 | Honestly the 'Romance' name makes it feel less legit to me, like a side hustle instead of a real roaster. I follow her for the faith and beauty content but I'd want reviews before I trust her coffee over the brands I already buy. |
+
+**`@cafetataoro` — Café Tata Oro**
+
+| # | Mem | Clar | Buy | Trust | Search | Verbatim comment |
+|---|---|---|---|---|---|---|
+| 1 | 8 | 7 | 7 | 9 | 6 | Wait, is this HER coffee?? I literally follow Tata Oro for hair stuff so seeing 'Café Tata Oro' made me stop scrolling, I'd def check if she actually roasts it herself. |
+| 2 | 6 | 8 | 4 | 5 | 5 | The bio is clear that it's coffee, that part's fine, but I honestly can't tell if this is really connected to her or just some random brand riding her name. Kinda sus until I see her post about it. |
+| 3 | 7 | 8 | 6 | 7 | 4 | Cute name and I love that it's Colombian, but 'cafetataoro' all smushed together is a pain to type and I'd probably misspell it looking for it later. |
+| 4 | 5 | 6 | 3 | 4 | 5 | Ships from Florida and no roaster name or origin details? For $ specialty coffee I need way more than 'roasted with love' before I'm buying, sorry. I'd need to see reviews first. |
+| 5 | 9 | 7 | 8 | 8 | 6 | Okay the 'Tata Oro' name instantly clicks for me because I already love her, so I'm way more likely to trust this than a coffee brand I've never heard of. Just wish the bio confirmed it's actually her. |
+| 6 | 6 | 7 | 5 | 6 | 3 | I like the vibe but the handle is hard to remember exactly, like is it cafe-tata-oro or cafetata? I'd have to go through her page to find it again instead of searching. |
+
