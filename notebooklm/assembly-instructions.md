@@ -107,11 +107,13 @@ even if facts are correct.
 > regenerate that shot.
 
 > c. "List every tagline used in the storyboard. For each, confirm it
-> renders as a complete sentence-unit line ('Two stories. One cup.' / 'A
-> Colombian soul. An American spirit.' / 'One beautiful blend.') and was
-> never split mid-sentence across a cut or caption wrap."
+> renders in complete sentence-unit lines and was never split
+> mid-sentence across a cut or caption wrap. The two ratified taglines
+> are 'Two stories. One cup.' and 'A Colombian soul. An American
+> spirit. One beautiful blend.' — the second may render as one line or
+> split only at sentence boundaries, as the live registered surfaces do."
 >
-> **Expected answer: all three intact, none split.**
+> **Expected answer: every sentence unit intact, no mid-sentence split.**
 
 > d. "For each spoken or captioned claim in the storyboard, name the
 > exact source file and section it traces to. List any claim that has

@@ -93,6 +93,15 @@ Taglines render as complete sentence-unit lines, on screen and in
 voiceover timing, never broken mid-sentence across a cut or a caption
 line-wrap:
 
+There are TWO ratified taglines (per `sources/brand-guide.md` and the
+label doc): "Two stories. One cup." and "A Colombian soul. An American
+spirit. One beautiful blend." The second is one tagline of three
+sentence units; it may render as one line OR split only at sentence
+boundaries — as the live registered surfaces themselves do (site meta
+description: full triplet on one line; Shopify product description:
+split after "spirit.") — never mid-sentence. The permitted sentence-unit
+beats are:
+
 - "Two stories. One cup."
 - "A Colombian soul. An American spirit."
 - "One beautiful blend."
@@ -117,9 +126,15 @@ inline so it survives prompt reuse outside this document.
 "A special cup of coffee for everyday people" MUST NOT appear in any
 on-screen text, voiceover, or caption generated from this style bible or
 `notebooklm/prompt-suite.md`. It is retired per the governing charter;
-its only permitted appearance in this entire pack is inside the
-retirement-notice banners in `notebooklm/MANIFEST.md`,
-`notebooklm/sources/brand-guide.md`, and `notebooklm/sources/brand-constraints.md`.
+its only permitted appearances in this entire pack are the
+retirement-notice banners and bannered verbatim canon text in
+`notebooklm/MANIFEST.md`, `notebooklm/sources/brand-guide.md`,
+`notebooklm/sources/brand-constraints.md`, and
+`notebooklm/sources/label-romance-by-tata-oro.md`, plus the framed
+rule-statement quotations in this section, `notebooklm/prompt-suite.md`
+(cross-scene reminders), `notebooklm/assembly-instructions.md`
+(grounding check), and `notebooklm/sources/cafe-tataoro-com-copy.md`
+(live-site absence-verification note). It must never appear in generated output.
 
 ## Gate reminder
 

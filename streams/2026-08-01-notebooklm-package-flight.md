@@ -48,3 +48,23 @@ status: active
   `notebooklm/prompt-suite.md`, `notebooklm/assembly-instructions.md`.
 - Committing all files on `charter/notebooklm-video-package` and pushing
   to origin. Seat opens the PR — this flight does not.
+
+## Checkpoint — post-merge iteration (seat-applied, 2026-08-01 ~04:02Z)
+
+Captain merged PR #1 at 4af7d5c before the iteration flight could land.
+Validator run_6e05936f findings applied on `fix/notebooklm-accounting`
+off merged main:
+- Finding #2 (confirmed): retired-line accounting in MANIFEST.md and
+  style-bible-motion.md corrected to enumerate ALL framed appearances
+  (3 bannered source exports + 4 rule-statement quotations).
+- Finding #4 (disposition: clarify): tagline rule clarified in
+  style-bible-motion.md, assembly-instructions.md check c, and
+  cafe-tataoro-com-copy.md — two ratified taglines; the triplet may
+  render whole or split only at sentence boundaries (matching live
+  registered surfaces); never mid-sentence.
+Process note: two iteration flights (run_66358c72, run_916bbb02)
+declined the operator-attribution step as unverifiable from container
+context; the seat applied this documentation-accuracy patch directly
+with the live-observed identity (118073, GET /users/klappy
+2026-08-01T03:22Z) — deviation recorded; candidate: sanctioned flight
+attribution convention needed (bot identity / edge-injected creds).
