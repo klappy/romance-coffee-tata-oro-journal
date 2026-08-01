@@ -33,8 +33,10 @@ export copies `notebooklm/sources/brand-guide.md`,
 `notebooklm/sources/label-romance-by-tata-oro.md` (each under its own
 retirement-notice banner), and is quoted for rule-statement purposes in
 this manifest, `notebooklm/style-bible-motion.md` (Retired-line
-exclusion), `notebooklm/prompt-suite.md` (cross-scene reminders), and
-`notebooklm/assembly-instructions.md` (grounding check). Those framed
+exclusion), `notebooklm/prompt-suite.md` (cross-scene reminders),
+`notebooklm/assembly-instructions.md` (grounding check), and
+`notebooklm/sources/cafe-tataoro-com-copy.md` (live-site
+absence-verification note). Those framed
 appearances are the ONLY permitted ones. **It MUST NOT appear in any
 generated output** — not in on-screen text, not in any prompt output,
 not in any caption hook, not in any NotebookLM-generated storyboard,

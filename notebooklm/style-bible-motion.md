@@ -132,8 +132,9 @@ retirement-notice banners and bannered verbatim canon text in
 `notebooklm/sources/brand-constraints.md`, and
 `notebooklm/sources/label-romance-by-tata-oro.md`, plus the framed
 rule-statement quotations in this section, `notebooklm/prompt-suite.md`
-(cross-scene reminders), and `notebooklm/assembly-instructions.md`
-(grounding check). It must never appear in generated output.
+(cross-scene reminders), `notebooklm/assembly-instructions.md`
+(grounding check), and `notebooklm/sources/cafe-tataoro-com-copy.md`
+(live-site absence-verification note). It must never appear in generated output.
 
 ## Gate reminder
 
