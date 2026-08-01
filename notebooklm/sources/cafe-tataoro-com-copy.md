@@ -31,11 +31,13 @@ status: ratified
 > special cup of coffee for everyday people") is confirmed ABSENT from the
 > live site as verified.
 >
-> **Tagline rendering rule (charter constraint #4):** the taglines below
-> MUST render as sentence-unit lines, never broken mid-sentence — "Two
-> stories. One cup." / "A Colombian soul. An American spirit." / "One
-> beautiful blend." are preserved as such below and MUST be preserved as
-> such in every downstream prompt/caption.
+> **Tagline rendering rule (charter constraint #4):** the two ratified
+> taglines — "Two stories. One cup." and "A Colombian soul. An American
+> spirit. One beautiful blend." — MUST render as sentence-unit lines,
+> never broken mid-sentence. The second may render as one line or split
+> only at sentence boundaries (as the live site meta and Shopify
+> description themselves do), and MUST be preserved as such in every
+> downstream prompt/caption.
 
 ---
 

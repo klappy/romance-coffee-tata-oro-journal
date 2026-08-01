@@ -27,12 +27,18 @@ binding text in this repo's canon (`canon/governance/brand-guide.md`,
 `canon/governance/brand-constraints.md`) as of 2026-08-01. **The charter
 governing this pack (captain, ratified 2026-07-31) RETIRES this line.**
 Canon amendment to strike it is pending, tracked separately — this flight
-did NOT edit `canon/` files. The line therefore still appears, verbatim,
-inside `notebooklm/sources/brand-guide.md` and
-`notebooklm/sources/brand-constraints.md` (each carries its own
-retirement-notice banner). **It MUST NOT appear anywhere else in this
-pack** — not in the style bible, not in any prompt, not in any caption
-hook, not in any NotebookLM-generated output. `notebooklm/assembly-instructions.md`
+did NOT edit `canon/` files. The line therefore still appears, verbatim, inside the
+export copies `notebooklm/sources/brand-guide.md`,
+`notebooklm/sources/brand-constraints.md`, and
+`notebooklm/sources/label-romance-by-tata-oro.md` (each under its own
+retirement-notice banner), and is quoted for rule-statement purposes in
+this manifest, `notebooklm/style-bible-motion.md` (Retired-line
+exclusion), `notebooklm/prompt-suite.md` (cross-scene reminders), and
+`notebooklm/assembly-instructions.md` (grounding check). Those framed
+appearances are the ONLY permitted ones. **It MUST NOT appear in any
+generated output** — not in on-screen text, not in any prompt output,
+not in any caption hook, not in any NotebookLM-generated storyboard,
+audio, or answer. `notebooklm/assembly-instructions.md`
 includes a Q&A grounding check that specifically tests for this.
 
 ## Manifest table
