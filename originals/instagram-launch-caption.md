@@ -60,3 +60,13 @@ Voiceover source: Tatiana's live drafting, Bee transcript 2026-07-31 7:48 PM
 EDT (same session that produced the site story, cafe-tataoro-com PR #2).
 Caption drafted by the dispatch seat from that script; ratified by Tatiana and
 the captain the same evening.
+
+---
+
+## Instagram bio (RATIFIED — Tatiana approved, 2026-07-31)
+
+> Specialty Colombian coffee ☕ A rare Bourbon Rosado at its heart. Dos historias. Una taza. 🖤
+
+91 chars (limit 150). Doctrine: *specialty before price* — the bio leads with
+specialty + the rare varietal, closes in her voice. Link field:
+`https://cafe.tataoro.com?utm_source=instagram&utm_medium=bio&utm_campaign=romance`
