@@ -23,7 +23,7 @@ start_here_label: "Project Charter"
 
 ## Summary
 
-Romance by Tata Oro is a premium Colombian coffee brand co-launched by Klappy (Chris) and Tatiana (Tata Oro), extending her established beauty and hair care brand. The product is a 70/30 blend of Castillo Chocolate and Bourbon Rosado Canela from La Karmela / 930 Colombian Coffee SAS (Bogotá). Positioning: "a special cup of coffee for everyday people." Origin: the daily ritual of fresh-ground cinnamon bark in Tatiana's morning coffee, sustained for over 18 months.
+Romance by Tata Oro is a premium Colombian coffee brand co-launched by Klappy (Chris) and Tatiana (Tata Oro), extending her established beauty and hair care brand. The product is a 70/30 blend of Castillo Chocolate and Bourbon Rosado Canela from La Karmela / 930 Colombian Coffee SAS (Bogotá). Positioning: the ratified tagline pair — "A Colombian soul. An American spirit. One beautiful blend." / "Two stories. One cup." (The former positioning line is retired — see `brand-constraints.md` § Positioning Line.) Origin: the daily ritual of fresh-ground cinnamon bark in Tatiana's morning coffee, sustained for over 18 months.
 
 ## Roles & Decision Authority
 
