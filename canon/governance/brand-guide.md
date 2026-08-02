@@ -25,11 +25,11 @@ complements: "canon/governance/communication-standards.md"
 
 - **House / storefront brand:** **Café Tata Oro** — the shop and audience-facing account. Handle `@cafe.tataoro`; home `cafe.tataoro.com`; inbox `cafe@tataoro.com`.
 - **Product (first blend / SKU):** **Romance by Tata Oro** — the coffee itself; the canon-locked name and visual identity live here.
-- **Positioning line (binding, external):** *"A special cup of coffee for everyday people."*
+- **Positioning (binding, external):** the ratified tagline pair — *"A Colombian soul. An American spirit. One beautiful blend."* and *"Two stories. One cup."* ⚠️ The former line *"a special cup of coffee for everyday people"* is **RETIRED** — see `brand-constraints.md` § Positioning Line and § Banned Phrases.
 - **Essence:** an approachable, romantic, documentary-true Colombian coffee — Tatiana's real daily ritual made into a cup, extended from her established Tata Oro brand.
 - **Taglines (on-pack, ratified):** *"Two stories. One cup."* · *"A Colombian soul. An American spirit. One beautiful blend."*
-- **One-line boilerplate (EN):** *Romance by Tata Oro is a small-lot Colombian blend — a special cup of coffee for everyday people, from Tata Oro.*
-- **One-line boilerplate (ES):** *Romance by Tata Oro es una mezcla colombiana de lote pequeño — un café especial para la gente de todos los días, de Tata Oro.*
+- **One-line boilerplate (EN):** *Romance by Tata Oro is a small-lot Colombian blend — a Colombian soul and an American spirit in one beautiful blend, from Tata Oro.*
+- **One-line boilerplate (ES):** *Romance by Tata Oro es una mezcla colombiana de lote pequeño — un alma colombiana y un espíritu americano en una mezcla hermosa, de Tata Oro.*
 
 ---
 
@@ -45,9 +45,9 @@ Tell it as fact, not marketing. During their dating years, Chris and Tatiana tra
 2. **Two stories, one cup** — a Colombian soul and an American spirit; two people, one blend.
 3. **Small-lot, hand-picked, honest** — medium roast, named origins, no inflated claims.
 4. **From someone you already trust** — Tata Oro's warmth and taste, extended to coffee.
-5. **Everyday luxury** — special but unpretentious; *"a special cup of coffee for everyday people."*
+5. **Everyday luxury** — special but unpretentious; *"A Colombian soul. An American spirit. One beautiful blend."*
 
-> Internal shorthand "approachable luxury" **must not** appear in external copy.
+> Internal shorthand "approachable luxury" **must not** appear in external copy. The full binding banned-phrase list (including the retired positioning line and "coming soon"/"muy pronto") lives in `brand-constraints.md` § Banned Phrases — copy work checks it before drafting AND greps output against it before presenting.
 
 ---
 
