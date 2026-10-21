@@ -85,7 +85,8 @@ unopened.
 - `originals/stickers/compliance/sticker-C-bestby-2028-01-23.pdf` — ruled
   sticker, 3.77 × 1.375 in.
 - `originals/stickers/compliance/sheet-4x6-C-bestby-2028-01-23.pdf` — 4-up
-  on 4×6, stickers butted edge-to-edge with a short tick at each page
+  on 4×6, leftover height spread into five equal gaps (top, between,
+  bottom) so every cut piece carries the same margin, with a short tick at each page
   edge marking every seam — no line across the stickers (captain,
   2026-10-21, after two misreads: crop marks, then full-width lines).
 - `originals/stickers/compliance/sticker-side-bestby-01-23-2028.pdf` —
