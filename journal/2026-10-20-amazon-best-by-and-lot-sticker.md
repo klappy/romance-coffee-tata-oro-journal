@@ -88,6 +88,11 @@ unopened.
   on 4×6, stickers butted edge-to-edge with one hairline cut guide per
   seam (captain, 2026-10-21: corner crop marks were overkill; one cut
   between stickers is all the sheet needs).
+- `originals/stickers/compliance/sticker-side-bestby-01-23-2028.pdf` —
+  date + lot only, 2 × 0.75 in, for the side of bags that already carry the
+  barcode sticker (captain, 2026-10-21). Sheet:
+  `sheet-4x6-side-bestby-01-23-2028.pdf`, 2 columns × 8 rows = 16 per 4×6,
+  one hairline per seam. Build: `build_side.py MM-DD-YYYY OUTDIR`.
 - `originals/stickers/build/build_overlay.py`, `build_sheet.py` —
   re-rollable: `python3 build_overlay.py ORIGINAL.pdf MM-DD-YYYY OUTDIR`,
   then `python3 build_sheet.py STICKER.pdf OUT.pdf`.
