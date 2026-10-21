@@ -1,5 +1,5 @@
 """Side-of-bag sticker: date + lot only, for bags that already carry the barcode sticker.
-Sticker 2 x 0.75 in; 4x6 sheet = 2 columns x 8 rows, edge-to-edge, one hairline per seam.
+Sticker 2 x 0.75 in; 4x6 sheet = 2 columns x 8 rows, edge-to-edge, short edge ticks per seam.
 Usage: python3 build_side.py BEST_BY OUTDIR
 """
 import sys
@@ -34,8 +34,10 @@ for r in range(rows):
     for k in range(cols):
         draw_sticker(c, k * SW, PH - (r + 1) * SH)
 c.setLineWidth(0.25); c.setStrokeGray(0.6)
-c.line(SW, 0, SW, PH)
+T = 6  # tick length, pt
+c.line(SW, 0, SW, T); c.line(SW, PH - T, SW, PH)
 for r in range(1, rows):
-    c.line(0, PH - r * SH, PW, PH - r * SH)
+    y = PH - r * SH
+    c.line(0, y, T, y); c.line(PW - T, y, PW, y)
 c.save()
 print(f"{cols}x{rows} = {cols*rows} per sheet")
