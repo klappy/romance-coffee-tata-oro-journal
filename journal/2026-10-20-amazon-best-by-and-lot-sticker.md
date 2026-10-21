@@ -85,7 +85,9 @@ unopened.
 - `originals/stickers/compliance/sticker-C-bestby-2028-01-23.pdf` — ruled
   sticker, 3.77 × 1.375 in.
 - `originals/stickers/compliance/sheet-4x6-C-bestby-2028-01-23.pdf` — 4-up
-  on 4×6 with crop marks.
+  on 4×6, stickers butted edge-to-edge with one hairline cut guide per
+  seam (captain, 2026-10-21: corner crop marks were overkill; one cut
+  between stickers is all the sheet needs).
 - `originals/stickers/build/build_overlay.py`, `build_sheet.py` —
   re-rollable: `python3 build_overlay.py ORIGINAL.pdf MM-DD-YYYY OUTDIR`,
   then `python3 build_sheet.py STICKER.pdf OUT.pdf`.
